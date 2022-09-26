@@ -39,7 +39,7 @@ operations from 2011 to 2016</li>
 sales operations.</li>
 </ol>
 
-<br>3. Product-Revenue Analysis</br>
+<b>3. Product-Revenue Analysis</b>
 <ol>
 <li>Write a query that ranks all product categories sold by Buybuy, from least amount
 to the most amount of all-time revenue generated.</li>
